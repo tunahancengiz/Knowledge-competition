@@ -1,0 +1,11 @@
+D:\Github\Knowledge-competition\Knowledge-competition\Knowledge-competition\bin\Debug\Knowledge-competition.exe.config
+D:\Github\Knowledge-competition\Knowledge-competition\Knowledge-competition\bin\Debug\Knowledge-competition.exe
+D:\Github\Knowledge-competition\Knowledge-competition\Knowledge-competition\bin\Debug\Knowledge-competition.pdb
+D:\Github\Knowledge-competition\Knowledge-competition\Knowledge-competition\obj\Debug\Knowledge-competition.csproj.AssemblyReference.cache
+D:\Github\Knowledge-competition\Knowledge-competition\Knowledge-competition\obj\Debug\Knowledge-competition.csproj.SuggestedBindingRedirects.cache
+D:\Github\Knowledge-competition\Knowledge-competition\Knowledge-competition\obj\Debug\Knowledge_competition.Form1.resources
+D:\Github\Knowledge-competition\Knowledge-competition\Knowledge-competition\obj\Debug\Knowledge_competition.Properties.Resources.resources
+D:\Github\Knowledge-competition\Knowledge-competition\Knowledge-competition\obj\Debug\Knowledge-competition.csproj.GenerateResource.cache
+D:\Github\Knowledge-competition\Knowledge-competition\Knowledge-competition\obj\Debug\Knowledge-competition.csproj.CoreCompileInputs.cache
+D:\Github\Knowledge-competition\Knowledge-competition\Knowledge-competition\obj\Debug\Knowledge-competition.exe
+D:\Github\Knowledge-competition\Knowledge-competition\Knowledge-competition\obj\Debug\Knowledge-competition.pdb
